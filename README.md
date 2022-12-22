@@ -9,12 +9,12 @@ Analysing movies on streaming platforms such as Netflix, Prime Video, Disney, an
 - [@prasanth](https://github.com/AkshaiPrasanth/)
 
 
-![Logo](https://github.com/AkshaiPrasanth/ANALYSIS-OF-TOP-MOVIES-IN-NETFLIX-AMAZON-DISNEY-AND-HULU/blob/main/images.jpeg?raw=true)
+![Logo](https://github.com/AkshaiPrasanth/AkshaiPrasanth-ANALYSIS-OF-TOP-MOVIES-IN-NETFLIX-AMAZON-DISNEY-AND-HULU-/blob/main/images.jpeg?raw=true)
 
 
 ## Screenshots 
 
-![App Screenshot](https://github.com/AkshaiPrasanth/ANALYSIS-OF-TOP-MOVIES-IN-NETFLIX-AMAZON-DISNEY-AND-HULU/blob/main/newplot%20(6).png?raw=true),![App Screenshot2](https://github.com/AkshaiPrasanth/ANALYSIS-OF-TOP-MOVIES-IN-NETFLIX-AMAZON-DISNEY-AND-HULU/blob/main/newplot%20(9).png?raw=true),![App Screenshot2](https://github.com/AkshaiPrasanth/ANALYSIS-OF-TOP-MOVIES-IN-NETFLIX-AMAZON-DISNEY-AND-HULU/blob/main/newplot%20copy.png?raw=true),![App Screenshot4](https://github.com/AkshaiPrasanth/ANALYSIS-OF-TOP-MOVIES-IN-NETFLIX-AMAZON-DISNEY-AND-HULU/blob/main/newplot%20(7).png?raw=true)
+![App Screenshot](https://github.com/AkshaiPrasanth/AkshaiPrasanth-ANALYSIS-OF-TOP-MOVIES-IN-NETFLIX-AMAZON-DISNEY-AND-HULU-/blob/main/newplot%20(6).png?raw=true),![App Screenshot2](https://github.com/AkshaiPrasanth/AkshaiPrasanth-ANALYSIS-OF-TOP-MOVIES-IN-NETFLIX-AMAZON-DISNEY-AND-HULU-/blob/main/newplot%20(9).png?raw=true),![App Screenshot2](https://github.com/AkshaiPrasanth/AkshaiPrasanth-ANALYSIS-OF-TOP-MOVIES-IN-NETFLIX-AMAZON-DISNEY-AND-HULU-/blob/main/newplot%20(8).png?raw=true),![App Screenshot4](https://github.com/AkshaiPrasanth/AkshaiPrasanth-ANALYSIS-OF-TOP-MOVIES-IN-NETFLIX-AMAZON-DISNEY-AND-HULU-/blob/main/newplot%20(7).png?raw=true)
 
 
 # Hi, I'm PRASANTH! 👋
